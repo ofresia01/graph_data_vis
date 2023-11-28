@@ -1,0 +1,40 @@
+﻿  AStar.cpp
+  Dijkstra.cpp
+  Graph.cpp
+  Grid.cpp
+D:\Programs\Projects\Pathfinder\Pathfinder\Grid.cpp(27,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programs\Projects\Pathfinder\Pathfinder\Grid.cpp(27,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programs\Projects\Pathfinder\Pathfinder\Grid.cpp(164,111): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programs\Projects\Pathfinder\Pathfinder\Grid.cpp(164,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programs\Projects\Pathfinder\Pathfinder\Grid.cpp(165,123): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Programs\Projects\Pathfinder\Pathfinder\Grid.cpp(165,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 561 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pathfinder.vcxproj -> D:\Programs\Projects\Pathfinder\Pathfinder\x64\Release\Pathfinder.exe
